@@ -1,0 +1,8 @@
+fastapi
+pyjwt
+sqlalchemy
+passlib
+uvicorn
+mangum
+openai
+dotenv
